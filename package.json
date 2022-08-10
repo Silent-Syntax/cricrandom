@@ -1,0 +1,24 @@
+{
+  "name": "cricrandom",
+  "version": "1.0.0",
+  "description": "A fun npm package which generates cricket player nicks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "randomword"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManthanBarot/cricrandom.git"
+  },
+  "keywords": [
+    "randomwords",
+    "cricketrandom",
+    "cricketplayers"
+  ],
+  "author": "Tommy Shelby#8843",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManthanBarot/cricrandom/issues"
+  },
+  "homepage": "https://github.com/ManthanBarot/cricrandom#readme"
+}
